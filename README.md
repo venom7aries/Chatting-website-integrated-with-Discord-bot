@@ -9,5 +9,5 @@ If theres an issue, contact me at:
 Discord: Tac Shadow#5920
 Server: https://dsc.gg/tacticalshadow
 
-Im currently experimenting my discord bot with integration with IBM Watson, Google, Socket and Tensorflow
+Im currently experimenting my discord bot with integration with IBM Watson, Google, Socket and Tensorflow.
 My dm is open for feature request and bug issue report and maybe even for a friendly good morning :]
